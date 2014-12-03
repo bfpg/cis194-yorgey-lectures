@@ -81,7 +81,7 @@ Video:
 ### Lecture 7
 
 Speaker:
-  George Wilsone
+  George Wilson
 
 Video:
   http://vimeo.com/105047461
