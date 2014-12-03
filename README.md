@@ -4,6 +4,7 @@
 ## The group
 
 We're a functional programming group in Brisbane, Australia.
+
   http://www.bfpg.org
 
 We meet up for a couple of talks on the 3rd Tuesday of every month, and we have a Hack Night on the following Wednesday (8 days later).
@@ -15,9 +16,11 @@ If you're in Brisbane and interested in functional programming, you should come 
 We've been giving talks following CIS194 "Introduction to Haskell" from UPenn, giving one talk a month based on a lecture from the course.
 
 We're basing it on Brent Yorgey's notes, which are available here:
+
   http://www.seas.upenn.edu/~cis194/spring13/index.html
 
 Although Richard Eisenberg has been running a version of it this year that looks similarly excellent:
+
   http://www.seas.upenn.edu/~cis194/index.html
 
 It's a great course which is fantastic for coming up to speed with Haskell.
