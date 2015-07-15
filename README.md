@@ -112,5 +112,8 @@ Video:
 
 ### Lecture 12
 
-Coming soon
+Speaker:
+  Matt Peddie
 
+Video:
+  https://www.youtube.com/watch?v=Ofz8zO8rjn0
