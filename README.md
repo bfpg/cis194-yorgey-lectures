@@ -21,7 +21,11 @@ We're basing it on Brent Yorgey's notes, which are available here:
 
 Although Richard Eisenberg has been running a version of it this year that looks similarly excellent:
 
-  http://www.seas.upenn.edu/~cis194/index.html
+  http://www.seas.upenn.edu/~cis194/spring15/index.html
+
+Latest:
+
+  http://www.seas.upenn.edu/~cis194
 
 It's a great course which is fantastic for coming up to speed with Haskell.
 It links the relevant extra reading (such as Learn You a Haskell For Great Good, Real World Haskell, Typeclassopedia, etc...), and it comes with some interesting homework exercises.
