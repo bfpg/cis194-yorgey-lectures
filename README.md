@@ -17,11 +17,17 @@ We've been giving talks following CIS194 "Introduction to Haskell" from UPenn, g
 
 We're basing it on Brent Yorgey's notes, which are available here:
 
-  http://www.seas.upenn.edu/~cis194/spring13/index.html
+  http://www.seas.upenn.edu/~cis194/spring13
 
 Although Richard Eisenberg has been running a version of it this year that looks similarly excellent:
 
-  http://www.seas.upenn.edu/~cis194/spring15/index.html
+  http://www.seas.upenn.edu/~cis194/fall14
+
+Others:
+
+  http://www.seas.upenn.edu/~cis194/spring15 (Noam Zilberstein)
+  
+  http://www.seas.upenn.edu/~cis194/fall16 (Joachim Breitner)
 
 Latest:
 
